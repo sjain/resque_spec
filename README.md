@@ -1,3 +1,7 @@
+Why forked in snapdocs?
+-------
+This gem supports `remove_delayed` out of the box. When we migrated to Rumi, we needed support for `remove_delayed_selection` as well. This fork adds that support.
+
 ResqueSpec
 ==========
 
